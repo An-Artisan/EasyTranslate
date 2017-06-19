@@ -1,0 +1,22 @@
+missing module named resource - imported by posix, E:\Python\PythonBasicExercises\translate.py
+missing module named posix - imported by os, E:\Python\PythonBasicExercises\translate.py
+missing module named _posixsubprocess - imported by subprocess, E:\Python\PythonBasicExercises\translate.py
+missing module named 'org.python' - imported by pickle, E:\Python\PythonBasicExercises\translate.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, E:\Python\PythonBasicExercises\translate.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\Python\PythonBasicExercises\translate.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\Python\PythonBasicExercises\translate.py
+missing module named _winreg - imported by platform, E:\Python\PythonBasicExercises\translate.py
+missing module named java - imported by platform, E:\Python\PythonBasicExercises\translate.py
+missing module named 'java.lang' - imported by platform, E:\Python\PythonBasicExercises\translate.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\Python\PythonBasicExercises\translate.py
+missing module named termios - imported by tty, getpass, E:\Python\PythonBasicExercises\translate.py
+missing module named grp - imported by tarfile, shutil, E:\Python\PythonBasicExercises\translate.py
+missing module named org - imported by copy, E:\Python\PythonBasicExercises\translate.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, E:\Python\PythonBasicExercises\translate.py
+missing module named ce - imported by os, E:\Python\PythonBasicExercises\translate.py
+missing module named _dummy_threading - imported by dummy_threading, E:\Python\PythonBasicExercises\translate.py
+missing module named StringIO - imported by easygui
+missing module named tkFileDialog - imported by easygui
+missing module named Tkinter - imported by easygui
+missing module named PIL - imported by easygui
+missing module named _scproxy - imported by urllib.request
